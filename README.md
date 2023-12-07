@@ -1,3 +1,2 @@
-# Sample Node.js application
-
-This repository is a sample Node.js application for Docker's documentation.
+# ToDo-Docker-Postgres
+This is a To Do App using Docker as a container and Postgres as the main database with SQLite as backup. Contains persistence / spec routes for testing, uses Jest with Nodemon for testing, and has a Dockerfile that runs Node in Dev, then Prod, then runs tests.  App uses some aspects of babel, react, and bootstrap. Express is used for server.
